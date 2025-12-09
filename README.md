@@ -134,10 +134,3 @@ python -m unittest test_atm.py
 This project is open-source and free to use.
 
 ---
-
-If you'd like, I can also generate:
-✅ A professional GitHub description
-✅ Badges (build, Python version, license, etc.)
-✅ A banner image for the repo
-
-Just tell me!
